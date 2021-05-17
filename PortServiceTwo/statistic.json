@@ -1,0 +1,44 @@
+{
+  "statisticLoose": [],
+  "statisticLiquid": [],
+  "statisticContainer": [],
+  "totalCount": 87,
+  "totalUnloadCount": 83,
+  "looseCost": 21500,
+  "liquidCost": 42100,
+  "containerCost": 120900,
+  "totalCost": 184500,
+  "averageQueueLengthLoose": 11,
+  "averageQueueLengthLiquid": 17,
+  "averageQueueLengthContainer": 13,
+  "averageDeviationLoose": {
+    "milliseconds": 2939
+  },
+  "averageDeviationLiquid": {
+    "milliseconds": 3067
+  },
+  "averageDeviationContainer": {
+    "milliseconds": 2473
+  },
+  "averageWaitingTimeLoose": {
+    "milliseconds": 562
+  },
+  "averageWaitingTimeLiquid": {
+    "milliseconds": 776
+  },
+  "averageWaitingTimeContainer": {
+    "milliseconds": 2720
+  },
+  "maxDeviationLoose": {
+    "milliseconds": 10001
+  },
+  "maxDeviationLiquid": {
+    "milliseconds": 9867
+  },
+  "maxDeviationContainer": {
+    "milliseconds": 9395
+  },
+  "countOfLooseCranes": 30,
+  "countOfLiquidCranes": 11,
+  "countOfContainerCranes": 30
+}
